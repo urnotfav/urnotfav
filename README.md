@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://giphy.com/gifs/dogegf-matrix-code-doge-and-dogegf-dnoiyvkdyFOvRdKB9V" width="100%" alt="Matrix rain" />
+</p>
 <h1 align="center">
   <code>urnotfav@github:~$</code>
 </h1>
