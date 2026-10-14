@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=8A2BE2&height=180&section=header&text=urnotfav&fontSize=60&fontColor=FFFFFF&animation=fadeIn&stroke=8A2BE2" width="100%" alt="Purple cyber banner" />
+</p>
+<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzg0bmQ1amZ0Y3dxM2E1ZG92dHZma2h1OWdpZnU0aTFhcjNjMG5wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoiyvkdyFOvRdKB9V/giphy.gif" width="100%" alt="Matrix rain" />
 </p>
 
@@ -28,6 +31,24 @@
 
 ### `root@urnotfav:~# whoami`
 
+### `root@urnotfav:~$ system_info`
+
+```text
+┌──────────────────────────────────┐
+│          SYSTEM PROFILE          │
+├──────────────────────────────────┤
+│ USER     : urnotfav              │
+│ STATUS   : LEARNING              │
+│ LANG     : C++ / PYTHON          │
+│ VCS      : GIT                   │
+│ MODE     : BUILD & DEBUG         │
+└──────────────────────────────────┘
+
+[+] Loading skills...
+[+] Exploring new ideas...
+[+] Improving problem-solving...
+[!] More projects in progress.
+
 ```text
 > beginner developer
 > learning C++ and Python
@@ -55,5 +76,24 @@
   <sub>less noise. more code.</sub>
 </p>
 </p>
+
+
+---
+
+### `root@urnotfav:~$ decrypt_message`
+
+```text
+                  _   _ ____  _   _  ___ _____ ___   _   __
+                 | | | |  _ \| \ | |/ _ \_   _/ _ \ | | / /
+                 | | | | |_) |  \| | | | || || | | || |/ /
+                 | |_| |  _ <| |\  | |_| || || |_| ||   <
+                  \___/|_| \_\_| \_|\___/ |_| \___/ |_|\_\
+
+01010101 01010010 01001110 01001111
+01010100 01000110 01000001 01010110
+```
+
+<sub>01010011 01010100 01000001 01011001 01000011 01010101 01010010 01001001 01001111 01010101 01010011</sub>
+
 ```
   
