@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzg0bmQ1amZ0Y3dxM2E1ZG92dHZma2h1OWdpZnU0aTFhcjNjMG5wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoiyvkdyFOvRdKB9V/giphy.gif" width="100%" alt="Matrix rain" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;%24+learning+C%2B%2B+%26+Python;%24+initializing+developer.exe;%24+building+in+silence..." alt="Terminal typing animation" />
+</p>
+
 <h1 align="center">
   <code>urnotfav@github:~$</code>
 </h1>
